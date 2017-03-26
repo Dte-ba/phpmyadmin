@@ -8,3 +8,4 @@ phpmyadmin:
      - 8080:80
     volumes:
      - /sessions
+
