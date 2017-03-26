@@ -3,6 +3,8 @@
 Este repositorio contiene una imagen docker de phpmyadmin preparada
 para correr sobre el servidor dtelab.com.ar.
 
+![](images/preview.png)
+
 Si quiere vincular su copia local de este repositorio contra nuestro
 servidor debería ejecutar lo siguiente:
 
